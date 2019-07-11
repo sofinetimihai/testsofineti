@@ -1,0 +1,5 @@
+x = input("enter x:")
+if int(x) < 5:
+	print("{} < 5".format(x))
+else:
+	print(" {} >= 5".format(x))
